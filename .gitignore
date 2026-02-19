@@ -1,0 +1,4 @@
+# Ignore depedency directories
+env/
+
+# Temporary files
